@@ -13,7 +13,10 @@ It can be helpful for networking or troubleshooting issues on your machine.
 
 ## Installation
 
-No special installation required. Ensure you have Python 3.x installed.
+Ensure you have these installed. : 
+Python3
+Psutil
+Requests
 
 ## Usage
 
