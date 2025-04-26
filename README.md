@@ -43,5 +43,20 @@ These requests are often used for legitimate purposes, such as improving network
 ## Why It Happens
 Antivirus software uses patterns and heuristics to identify potential threats. Since some malicious software also requests similar information to perform harmful actions, any software that does the same may be mistakenly categorized as a virus or malware. This is a known issue that can occur with many legitimate programs that interact with network configurations or systems.
 
+## What’s a False Positive?
+Explanation
+
+A false positive happens when your antivirus software thinks something is dangerous when it actually isn’t. It’s like your antivirus being overly cautious and mistakenly thinking a safe file or program is a virus or malware.
+
+## Why Do False Positives Happen?
+
+Antivirus software looks for patterns or behaviors that resemble things viruses do. But sometimes, regular, harmless programs might accidentally trigger these alarms. Here’s why that might happen:
+
+Unusual behavior: If a program does something a little out of the ordinary—like checking your network settings or asking for your IP address—it might get flagged, even though it’s perfectly fine.
+
+Code overlap: Sometimes, safe programs share similar code with known viruses, which can confuse the antivirus software.
+
+Aggressive detection: Some antivirus programs are set to be extra sensitive, and when they see something they’re not familiar with, they’ll flag it just to be safe.
+
 ## Assurances
 Please be assured that this software is completely safe to use and does not have any malicious intent. I respect user privacy and only request this information for necessary, harmless purposes related to the functionality of the executable which is networking or troubleshooting issues on your machine.
