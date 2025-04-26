@@ -1,4 +1,4 @@
-#whatsmy
+## whatsmy
 
 This Python script retrieves and displays your system's IP address, MAC address, and DNS servers.
 
