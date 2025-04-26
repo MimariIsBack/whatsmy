@@ -14,9 +14,9 @@ It can be helpful for networking or troubleshooting issues on your machine.
 ## Installation
 
 Ensure you have these installed. : 
-Python3
-Psutil
-Requests
+Python3,
+,Psutil
+,Requests
 
 ## Usage
 
