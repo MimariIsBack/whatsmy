@@ -1,2 +1,24 @@
-# whatsmy
-A simple but quick Python script that retrieves and displays your system's IP address, MAC address, and DNS server information.
+#whatsmy
+
+This Python script retrieves and displays your system's IP address, MAC address, and DNS servers.
+
+## Description
+
+This script uses Python to fetch:
+- Your public IP address
+- Your local machine's MAC address
+- DNS server details
+
+It can be helpful for networking or troubleshooting issues on your machine.
+
+## Installation
+
+No special installation required. Ensure you have Python 3.x installed.
+
+## Usage
+
+1. Clone this repository.
+2. Open a terminal/command prompt in the directory where the script is located.
+3. Run the script with:
+   ```bash
+   python script.py
